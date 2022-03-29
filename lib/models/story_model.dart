@@ -1,4 +1,4 @@
-import 'package:flutter_facebook_responsive_ui/models/models.dart';
+import 'package:myapp/models/models.dart';
 import 'user_model.dart';
 
 class Story {
