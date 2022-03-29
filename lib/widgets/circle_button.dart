@@ -25,7 +25,7 @@ class extends StatelessWidget {
                     icon: Icon(icon),
                     iconSize: iconSize,
                     color: Colors.black,
-                    onPressed: onPressed,
+                    onPressed: onPressed(),
                     ),
           );
   }
